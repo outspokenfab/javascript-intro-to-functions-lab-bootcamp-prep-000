@@ -16,7 +16,7 @@ function logWhisper(string){
 
 //Say Hi to Grandma Variables
 var uppercase = "HELLO!"
-var lowercase = "hello"
+var lowercase = "hello!"
 var mixedcase = "Hi there!"
 
 
